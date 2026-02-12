@@ -2,9 +2,8 @@
 
 <br/>
 
-<div align="center" style="font-size:18px; font-weight:500;">
-안녕하세요.<br/>
-끊임없이 배우고 성장하며, 도전을 멈추지 않는 개발자가 되고 싶은 전정현입니다.
+<div align="center" style="font-size:40px; font-weight:500;">
+끊임없이 배우고 성장하며, 도전을 멈추지 않는 개발자가 되기 위해 열심히 노력하고 있습니다👩‍💻
 </div>
 
 <br/>
